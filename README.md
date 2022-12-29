@@ -9,8 +9,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://img.shields.io/badge/python-3.8-orange?style=for-the—badge&logo=python&logoColor=orange)
-<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jackyfzh&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a> 
-<a href="https://github.com/jackyfzh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackyfzh&layout=compact&theme=vue&hide_border=true" /></a>
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RanGuMo" /> </div>
 ## 今年汇总 ✨
 
 
