@@ -24,5 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RanGuMo" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RanGuMo" /> </div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RanGuMo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
