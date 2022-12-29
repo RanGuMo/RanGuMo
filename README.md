@@ -9,6 +9,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://img.shields.io/badge/python-3.8-orange?style=for-the—badge&logo=python&logoColor=orange)
+![](https://img.shields.io/badge/python-3.9-orange)
 ## 今年汇总 ✨
 
 
