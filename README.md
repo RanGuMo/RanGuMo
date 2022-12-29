@@ -9,7 +9,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 ![](https://img.shields.io/badge/python-3.8-orange?style=for-the—badge&logo=python&logoColor=orange)
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RanGuMo" /> </div>
+
 ## 今年汇总 ✨
 
 
@@ -19,3 +19,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=RanGuMo" /> </div>
